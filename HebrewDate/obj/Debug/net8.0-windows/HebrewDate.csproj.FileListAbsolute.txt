@@ -1,0 +1,16 @@
+C:\Users\1\source\repos\HebrewDate\HebrewDate\bin\Debug\net8.0-windows\HebrewDate.exe
+C:\Users\1\source\repos\HebrewDate\HebrewDate\bin\Debug\net8.0-windows\HebrewDate.deps.json
+C:\Users\1\source\repos\HebrewDate\HebrewDate\bin\Debug\net8.0-windows\HebrewDate.runtimeconfig.json
+C:\Users\1\source\repos\HebrewDate\HebrewDate\bin\Debug\net8.0-windows\HebrewDate.dll
+C:\Users\1\source\repos\HebrewDate\HebrewDate\bin\Debug\net8.0-windows\HebrewDate.pdb
+C:\Users\1\source\repos\HebrewDate\HebrewDate\obj\Debug\net8.0-windows\HebrewDate.Form1.resources
+C:\Users\1\source\repos\HebrewDate\HebrewDate\obj\Debug\net8.0-windows\HebrewDate.csproj.GenerateResource.cache
+C:\Users\1\source\repos\HebrewDate\HebrewDate\obj\Debug\net8.0-windows\HebrewDate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1\source\repos\HebrewDate\HebrewDate\obj\Debug\net8.0-windows\HebrewDate.AssemblyInfoInputs.cache
+C:\Users\1\source\repos\HebrewDate\HebrewDate\obj\Debug\net8.0-windows\HebrewDate.AssemblyInfo.cs
+C:\Users\1\source\repos\HebrewDate\HebrewDate\obj\Debug\net8.0-windows\HebrewDate.csproj.CoreCompileInputs.cache
+C:\Users\1\source\repos\HebrewDate\HebrewDate\obj\Debug\net8.0-windows\HebrewDate.dll
+C:\Users\1\source\repos\HebrewDate\HebrewDate\obj\Debug\net8.0-windows\refint\HebrewDate.dll
+C:\Users\1\source\repos\HebrewDate\HebrewDate\obj\Debug\net8.0-windows\HebrewDate.pdb
+C:\Users\1\source\repos\HebrewDate\HebrewDate\obj\Debug\net8.0-windows\HebrewDate.genruntimeconfig.cache
+C:\Users\1\source\repos\HebrewDate\HebrewDate\obj\Debug\net8.0-windows\ref\HebrewDate.dll
